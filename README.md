@@ -1,4 +1,4 @@
-**The Donut model serves as a powerful tool for document understanding witgout ocr. Throughout my work on implementing this model in a repository, I gained invaluable insights into various aspects of Natural Language Processing (NLP). Here's a breakdown of what I learned:**
+**The Donut model serves as a powerful tool for document understanding without ocr. Throughout my work on implementing this model in a repository, I gained invaluable insights into various aspects of Natural Language Processing (NLP). Here's a breakdown of what I learned:**
 
 1.**Interaction with Hugging Face:** I became adept at utilizing Hugging Face, a popular platform for NLP model development and sharing. This included understanding how to access and use pretrained models for tasks like TTransformers, as well as techniques for fine-tuning these models to better suit specific requirements or datasets.
 
